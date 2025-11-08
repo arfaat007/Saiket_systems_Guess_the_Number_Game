@@ -33,6 +33,11 @@ A fun and beginner-friendly **Python project** where the program randomly select
    ```bash
    git clone https://github.com/your-username/guess-the-number-game.git
 
-2. cd guess-the-number-game
-3. python guess_the_number.py
+2.Change DIRECTORY
+'''bash
+   cd guess-the-number-game
+   
+3.Run in Terminal
+'''bash
+python guess_the_number.py
 
