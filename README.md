@@ -34,10 +34,10 @@ A fun and beginner-friendly **Python project** where the program randomly select
    git clone https://github.com/your-username/guess-the-number-game.git
 
 2.Change DIRECTORY
-'''bash
+```bash
    cd guess-the-number-game
    
 3.Run in Terminal
-'''bash
+```bash
 python guess_the_number.py
 
